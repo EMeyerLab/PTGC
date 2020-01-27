@@ -1,0 +1,1 @@
+recursive-include crackrar *.ico *.png *.svg *.py *.rar *.csv *.ipynb *.odf *.pdf *.txt *.ppm
