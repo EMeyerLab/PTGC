@@ -40,6 +40,10 @@ user@computer$:pip install ./PTGC
 user@computer$:PTGC_GUI
 ```
 
+## Known trouble
+
+> For people under MacOS **Mojave**, TKinter/Python cause a crash/restart of the desktop. This is a well-known issue. The problem seems to come from MacOS itself and was apparently resolved with the **Catalina** update.
+
 ## Windows
 
 Just use the .exe file as described earlier
